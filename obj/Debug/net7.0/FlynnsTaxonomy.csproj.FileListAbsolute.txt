@@ -1,0 +1,14 @@
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\bin\Debug\net7.0\FlynnsTaxonomy.exe
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\bin\Debug\net7.0\FlynnsTaxonomy.deps.json
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\bin\Debug\net7.0\FlynnsTaxonomy.runtimeconfig.json
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\bin\Debug\net7.0\FlynnsTaxonomy.dll
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\bin\Debug\net7.0\FlynnsTaxonomy.pdb
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.AssemblyInfoInputs.cache
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.AssemblyInfo.cs
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.dll
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\refint\FlynnsTaxonomy.dll
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.pdb
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\FlynnsTaxonomy.genruntimeconfig.cache
+C:\Users\moise\Desktop\Programacion\C#\FlynnsTaxonomy\FlynnsTaxonomy\obj\Debug\net7.0\ref\FlynnsTaxonomy.dll

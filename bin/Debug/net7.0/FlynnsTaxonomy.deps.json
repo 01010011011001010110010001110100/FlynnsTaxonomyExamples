@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FlynnsTaxonomy/1.0.0": {
+        "runtime": {
+          "FlynnsTaxonomy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlynnsTaxonomy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
